@@ -1,0 +1,3 @@
+from sorting_algorithms.insertion_sort import insertion_sort
+from sorting_algorithms.merge_sort import merge_sort
+from sorting_algorithms.timsort import timsort
